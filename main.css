@@ -1,0 +1,13 @@
+.demo{
+    background-color:teal;
+color:black;
+text-align: center;
+text-transform: uppercase;
+}
+
+.vip{
+    background-color:rgb(252, 93, 199);
+    color:#000000;
+    text-align: center;
+    text-transform: uppercase;
+}
